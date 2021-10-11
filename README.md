@@ -1,2 +1,2 @@
 # cyanidethejuggla.github.io
-BASIC REPO
+DEFAULT REPO
